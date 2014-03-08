@@ -1,0 +1,129 @@
+			/*component*/
+			
+			body{
+				background: grey;
+			}
+			
+			#container{
+				margin-left:auto;
+				margin-right:auto;
+				width: 100%;
+				background:red;
+				padding: 0!important;
+				max-width: 100%!important;
+			}
+			
+			
+			.flask{
+				background: purple;
+				width: 80%;
+				max-width: 1280px;
+				margin-left:auto;
+				margin-right:auto;
+				position: relative;
+				overflow: hidden;
+			}
+			
+			/*header*/
+			header{
+			
+			}
+			
+			#logo{
+				background: url("../images/logo.png") 0 0 no-repeat;
+				text-indent: -999px;
+				height: 126px;
+				width: 126px;
+			}
+			
+			#main-navigation{
+				background: green;
+				position: absolute;
+				top: 20px;
+				right: 20px;
+			}
+			
+			#main-navigation a{
+				color: #030303;
+				font-size:12px;
+			}
+			
+			
+			.bar{
+				background: #febb18;
+				height: 10px;
+			}
+			
+			.list{
+				background: green;
+			}
+			
+			.list a{
+				display:block;
+			}
+			
+			
+			/*grid*/
+			.batch{
+				overflow: hidden;
+			}
+			
+			.article{
+				background: orange;
+				margin-bottom: 10px;
+			}
+			
+			.trailers a{
+				margin-bottom: 10px;
+				display: block;
+			}
+			/*grid*/
+			
+			
+			
+
+			img {
+				width: 100%;
+			}
+			
+			
+			
+			.latest-links{
+				background: grey;
+				padding: 20px 0 20px 0;
+			}
+			
+			
+			.userthumb{
+				background: #febb18;
+				width: 90px;
+				border-radius: 100px;
+				padding: 3px;
+			}
+			
+			.userthumb img{
+				width: 90px;
+				border-radius: 100px;
+			}
+			
+			
+			.video iframe{
+				width: 100%;
+			}
+			
+			
+			/*footer*/
+			footer{
+				background: #febb18;
+				padding: 20px 0 20px 0;
+			}
+			
+			
+			
+			#footer-navigation{
+				background: purple;
+			}
+			
+			#footer-navigation a{
+				color: blue;
+			}
